@@ -31,6 +31,6 @@
     <a/>    
   </div>
    <br>
-   <img align="right" height="40%" width="40%" alt="animacao kal" src="https://github.com/kalarruda/kalarruda/blob/main/gif_animado.gif">
+   <img align="left" height="40%" width="40%" alt="animacao kal" src="https://github.com/kalarruda/kalarruda/blob/main/gif_animado.gif">
   
 
