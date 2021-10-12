@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Back-End
 - :suspect: Pronouns: He / Him
 <div>
-  <img align="right" height="50%" width="50%" alt="animacao kal" src="https://github.com/kalarruda/kalarruda/blob/main/gif_animado.gif">
+  <img align="right" height="30%" width="30%" alt="animacao kal" src="https://github.com/kalarruda/kalarruda/blob/main/gif_animado.gif">
  </div>
  <div>
   <a href="https://github.com/kalarruda">
