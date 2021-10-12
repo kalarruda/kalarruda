@@ -8,9 +8,6 @@
   <a href="https://github.com/kalarruda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalarruda&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalarruda&layout=compact&langs_count=7&theme=gotham"/>
-
-  <img align="right" height="40%" width="40%" alt="animacao kal" src="https://github.com/kalarruda/kalarruda/blob/main/gif_animado.gif">
-
 </div>
  <br>
  
@@ -21,9 +18,7 @@
     <img align="center" alt="kal-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="kal-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
     <img align="center" alt="kal-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
-</div>
-  
- 
+ </div>
   
 ##
   <div>
@@ -35,5 +30,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     <a/>    
   </div>
+   <br>
+   <img align="right" height="40%" width="40%" alt="animacao kal" src="https://github.com/kalarruda/kalarruda/blob/main/gif_animado.gif">
   
 
