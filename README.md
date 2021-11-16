@@ -2,7 +2,6 @@
 
 - :computer: I’m currently studying programming at Trybe.
 - 🌱 I’m currently learning Back-End
-- :suspect: Pronouns: He / Him
 
  <div>
   <a href="https://github.com/kalarruda">
